@@ -1,4 +1,4 @@
-Buoyancy01: Machine Learning & AI Automation Developer
+Neuralic: Machine Learning & AI Automation Developer
 
 🚀 Overview
 
